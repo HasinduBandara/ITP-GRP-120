@@ -39,7 +39,8 @@ the client should be starting on port `4200`
 
 
 ## Contributor:
-Malini - `Private Message`
-Nazeem - `Profile Management`
-Sanduni - `Post Management`
-Srithanujan - `Central Authentication API`
+Hasindu - `Profile Management`
+Pathum - `Private Message`
+Harendra - `Post Management`
+Nimesha - `Central Authentication API`
+
