@@ -1,4 +1,4 @@
-# MIGHTY FOODS REST API Social Media
+# FOODS REST API Social Media
 
 A full-stack, mobile friendly social media platform using Sprint Boot Maven. 
 
